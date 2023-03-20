@@ -25,8 +25,8 @@ function App() {
       format: "jpeg",
       no_ads: "true",
       no_cookie_banners: "true",
-      width: "1920",
-      height: "1080",
+      width: "800",
+      height: "600",
     };
 
     if (inputs.url == "" || inputs.url == " ") {
